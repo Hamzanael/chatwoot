@@ -46,6 +46,7 @@ jobs:
         if: github.ref_name == 'master'
         run: |
           echo "DOCKER_TAG=crocotech/chatwoot:latest-ce" >> $GITHUB_ENV
+          echo "secret is ${{ secrets.USERNAME }}"
 
       - name: Login to DockerHub
         uses: docker/login-action@v2
