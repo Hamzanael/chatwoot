@@ -145,14 +145,14 @@ es:
   integration_apps:
     dyte:
       name: "Dyte"
-      description: "Dyte is tool that helps you to add live audio & video to your application with just a few lines of code. This integration allows you to give an option to your agents to have a video or voice call with your customers from without leaving Chatwoot."
+      description: "Dyte is tool that helps you to add live audio & video to your application with just a few lines of code. This integration allows you to give an option to your agents to have a video or voice call with your customers from without leaving SocialSync."
       meeting_name: "%{agent_name} has started a meeting"
     slack:
       name: "Slack"
       description: "Slack es una herramienta de chat que reúne toda su comunicación en un solo lugar. Al integrar Slack, puede ser notificado de todas las nuevas conversaciones en su cuenta directamente dentro de su Slack."
     webhooks:
       name: "Webhook"
-      description: "Los eventos Webhook le proporcionan información en tiempo real sobre lo que está sucediendo en su cuenta de Chatwoot. Puede hacer uso de los webhooks para comunicar los eventos a sus aplicaciones favoritas como Slack o Github. Haga clic en Configurar para configurar sus webhooks."
+      description: "Los eventos Webhook le proporcionan información en tiempo real sobre lo que está sucediendo en su cuenta de SocialSync. Puede hacer uso de los webhooks para comunicar los eventos a sus aplicaciones favoritas como Slack o Github. Haga clic en Configurar para configurar sus webhooks."
     dialogflow:
       name: "Dialogflow"
       description: "Construya chatboots usando Dialogflow y conéctelos rápidamente a su bandeja de entrada. Permita que los bots gestionen las preguntas and de que pasen a los agentes de servicio al cliente."
