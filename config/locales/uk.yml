@@ -46,7 +46,7 @@ uk:
       locale:
         unique: має бути унікальним на категорії і порталі
     dyte:
-      invalid_message_type: "Невірний тип повідомлення. Дію не дозволено"
+      invalid_message_type: "Invalid message type. Action not permitted"
     inboxes:
       imap:
         socket_error: Перевірте підключення до мережі, адреса IMAP і повторіть спробу.
