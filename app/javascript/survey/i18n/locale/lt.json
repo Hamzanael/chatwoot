@@ -12,8 +12,8 @@
     },
     "API": {
       "SUCCESS_MESSAGE": "Survey updated successfully",
-      "ERROR_MESSAGE": "Nepavyko prisijungti prie Woot serverio, bandykite dar kartą vėliau"
+      "ERROR_MESSAGE": "Nepavyko prisijungti prie SocialSync serverio, bandykite dar kartą vėliau"
     }
   },
-  "POWERED_BY": "Parengta pagal Chatwoot"
+  "POWERED_BY": "Parengta pagal SocialSync"
 }
